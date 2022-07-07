@@ -782,6 +782,20 @@ a, a:hover {
   }
 }
 
+.title{
+  padding-top: 15%;
+  position: absolute;
+  text-align: left;
+  padding-left: 15%;
+  line-height: 60px;
+  font-weight:900;
+  z-index: 99;
+}
+
+.title span {
+  color: #D63447;
+}
+
 .mouse-wrap {
   position: relative;
   display: inline-block;
